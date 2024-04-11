@@ -5,6 +5,9 @@
   font-size: 100%;
 }
 body {
+  cursor: pointer;
+  user-select: none;
+  display: block;
   display: flex;
   justify-content: left;
   align-items: center;
