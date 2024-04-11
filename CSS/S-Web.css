@@ -39,6 +39,7 @@ body {
   font-family: 'Questrial, sans-serif';
 }
 .head, .links {
+  padding: 25px;
   text-align: center;
 }
 .head, .content {
