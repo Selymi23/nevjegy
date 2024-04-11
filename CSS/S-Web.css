@@ -81,6 +81,7 @@ img:hover {
   }
 .fa-instagram, .fa-facebook-square, .fa-discord {
   color: black;
+  padding: 25px;
 }
 
 .fa-instagram:hover {
