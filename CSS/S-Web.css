@@ -76,7 +76,7 @@
   img:hover {
     transform: scale(1.1);
     transition: all 0.5s ease-in-out;
-    filter: brightness(150%);
+    filter: brightness(130%);
     }
   .fa-instagram, .fa-facebook-square, .fa-discord, .fa-at, .fa-shop {
     color: black;
