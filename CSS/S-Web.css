@@ -80,7 +80,8 @@
     }
   .fa-instagram, .fa-facebook-square, .fa-discord, .fa-at, .fa-shop {
     color: black;
-    padding-right: 6px;
+    padding: 6px;
+
   }
   
   .fa-instagram:hover {
