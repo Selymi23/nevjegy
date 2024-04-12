@@ -12,7 +12,7 @@
     justify-content: left;
     align-items: center;
     height: 100vh;
-    background: url('KÉPEK/HÁTTÉR.jpg') no-repeat center center fixed;
+    background: url('../KÉPEK/HÁTTÉR.jpg') no-repeat center center fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
