@@ -84,27 +84,27 @@
   }
   
   .fa-instagram:hover {
-    transform: scale(2.0) rotate(360deg);
+    transform: scale(1.8) rotate(360deg);
     color: rgba(255, 74, 179, 0.918);
     transition: all 0.5s ease-in-out;  
   }
   .fa-facebook-square:hover {
-    transform: scale(2.0) rotate(360deg);
+    transform: scale(1.8) rotate(360deg);
     color: rgb(0, 68, 255);
     transition: all 0.5s ease-in-out;  
   }
   .fa-discord:hover{
-    transform: scale(2.0) rotate(360deg);
+    transform: scale(1.8) rotate(360deg);
     color: rgb(100, 128, 255);
     transition: all 0.5s ease-in-out;
   }
   .fa-at:hover{
-    transform: scale(2.0) rotate(360deg);
+    transform: scale(1.8) rotate(360deg);
     color: rgb(255, 0, 0);
     transition: all 0.5s ease-in-out;
   }
   .fa-shop:hover{
-    transform: scale(2.0) rotate(360deg);
+    transform: scale(1.8) rotate(360deg);
     color: #f873dd;
     transition: all 0.5s ease-in-out;
   }
