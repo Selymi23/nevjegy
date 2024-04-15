@@ -23,4 +23,8 @@ img {
     background-color: hsla(0, 0%, 100%, .5);
     box-shadow: hsla(0, 0%, 0%, .8) 40px 40px 70px;
     padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
