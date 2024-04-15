@@ -1,0 +1,23 @@
+body {
+    user-select: none;
+    display: block;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: url('../KÉPEK/HATTER.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 480px;
+    max-width: calc(100vw - 10px);
+    border-radius: 50px;
+    box-shadow: hsla(0, 0%, 0%, .8) 40px 40px 70px;
+}
