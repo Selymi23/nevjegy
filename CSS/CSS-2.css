@@ -28,3 +28,20 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+a{
+    margin-top: 1560px;
+    position: absolute;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    }
+    
+a:hover{
+    background-color: #ffe2e2;
+    color: black;
+    }
+    
+.previous {
+    color: black;
+    }
