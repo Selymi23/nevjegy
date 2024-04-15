@@ -15,7 +15,7 @@ body {
 
 img {
     display: table;
-    height: 100vh;
+    width: 480px;
     max-width: calc(100vw - 10px);
     display: block;
     border-radius: 50px;
