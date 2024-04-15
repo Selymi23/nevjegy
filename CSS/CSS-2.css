@@ -20,4 +20,5 @@ img {
     display: block;
     border-radius: 50px;
     box-shadow: hsla(0, 0%, 0%, .8) 40px 40px 70px;
+    padding: 4px;
 }
