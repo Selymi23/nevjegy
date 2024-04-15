@@ -30,7 +30,7 @@ img {
 }
 
 a{
-    margin-top: 1560px;
+    margin-top: 1630px;
     position: absolute;
     text-decoration: none;
     display: inline-block;
@@ -38,10 +38,9 @@ a{
     }
     
 a:hover{
-    background-color: #ffe2e2;
-    color: black;
+    color: rgb(255, 255, 255);
     }
     
 .previous {
-    color: black;
+    color: rgb(255, 255, 255);
     }
